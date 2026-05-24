@@ -1,5 +1,8 @@
 Week 1:
-Basics of python codes:
+1.Basics of python codes:
 Basics.ipynb
 Loops.ipynb
-Intro to machine learning Notes
+Dictionaries.ipynb
+Functions.ipynb
+
+2.Intro to machine learning Notes
