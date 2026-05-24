@@ -1,4 +1,5 @@
-Week 1:
+Week 1 Topics done till now:
+
 1.Basics of python codes:
 Basics.ipynb
 Loops.ipynb
