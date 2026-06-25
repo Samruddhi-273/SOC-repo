@@ -6,7 +6,15 @@ Input: The capital of India is
 Prediction: Delhi
 The model learns patterns from huge amounts of text rather than being explicitly programmed.
 
-# LLMs can: Answer questions,Summarize text,Translate languages,Generate code,Write essays,Assist with research,Power chatbots
+# LLMs can: 
+* Answer questions
+* Summarize text
+* Translate languages
+* Generate code
+* Write essays
+* Assist with research
+* Power chatbots
+
 Examples include: ChatGPT,Claude,Gemini,Llama
 
 ## The Training Process:
