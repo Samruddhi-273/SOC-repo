@@ -1,8 +1,7 @@
 ## What is an LLM?
 
 A Large Language Model is a neural network trained to predict the next token (word/subword) in a sequence.
-Example:
-
+# Example:
 Input: The capital of India is
 Prediction: Delhi
 The model learns patterns from huge amounts of text rather than being explicitly programmed.
