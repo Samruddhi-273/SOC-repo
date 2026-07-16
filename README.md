@@ -220,5 +220,13 @@ By the end of Week 8, I have:
 * Built and deployed interactive AI applications using Streamlit.
 * Gained hands-on experience with modern AI development tools and deployment workflows.
 
+---
 
+
+## 👩‍💻 Author
+
+**Samruddhi Magadum**
+
+B.Tech Aerospace Engineering  
+Indian Institute of Technology Bombay
 
