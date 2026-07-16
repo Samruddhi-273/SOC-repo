@@ -77,7 +77,7 @@ Week 7 & 8 - LLM Integration and Deployment/
 ### Clone the repository
 
 ```bash
-git clone <repository-link>
+git clone https://github.com/Samruddhi-273/SOC-repo/tree/master
 cd "Week 7 & 8 - LLM Integration and Deployment"
 ```
 
