@@ -223,7 +223,7 @@ By the end of Week 8, I have:
 ---
 
 
-## 👩‍💻 Author
+##  Author
 
 **Samruddhi Magadum**
 

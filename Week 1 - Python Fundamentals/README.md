@@ -1,12 +1,12 @@
-# 🐍 Week 1 – Python Fundamentals
+#  Week 1 – Python Fundamentals
 
-## 📌 Project Overview
+##  Project Overview
 
 This week focused on building a strong foundation in Python programming. The concepts learned during this week form the basis for Machine Learning, Deep Learning, and AI application development in the subsequent weeks.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Learn Python syntax and programming fundamentals.
 - Understand data structures and control flow.
@@ -16,7 +16,7 @@ This week focused on building a strong foundation in Python programming. The con
 
 ---
 
-## 📚 Topics Covered
+##  Topics Covered
 
 - Variables and Data Types
 - Operators
@@ -33,7 +33,7 @@ This week focused on building a strong foundation in Python programming. The con
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 - Python
 - VS Code
@@ -41,7 +41,7 @@ This week focused on building a strong foundation in Python programming. The con
 
 ---
 
-## 📂 Folder Structure
+##  Folder Structure
 
 ```
 Week 1 - Python Fundamentals/
@@ -56,7 +56,7 @@ Week 1 - Python Fundamentals/
 
 ---
 
-## 📖 Learning Outcomes
+##  Learning Outcomes
 
 By the end of this week, I was able to:
 

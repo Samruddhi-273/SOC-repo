@@ -1,7 +1,7 @@
-# 🏭 AI-Powered Industrial Quality Assurance System
+#  AI-Powered Industrial Quality Assurance System
 ### Week 7 & 8 – LLM Integration and Deployment
 
-## 📌 Project Overview
+##  Project Overview
 
 This project integrates Computer Vision and Large Language Models (LLMs) to build an AI-powered Industrial Quality Assurance System. The application detects defects on steel surface images using a trained YOLOv8 model and generates professional inspection reports using the Llama 3.2 model running locally through Ollama.
 
@@ -9,7 +9,7 @@ The entire system is deployed as an interactive Streamlit web application, provi
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Build an interactive Streamlit web application.
 - Integrate a custom-trained YOLOv8 model for steel surface defect detection.
@@ -19,23 +19,23 @@ The entire system is deployed as an interactive Streamlit web application, provi
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 📤 Upload steel surface images.
-- 🔍 Detect defects using the trained YOLOv8 model.
-- 📦 Display detected defects with bounding boxes.
-- 📊 Show inspection summary including:
+-  Upload steel surface images.
+-  Detect defects using the trained YOLOv8 model.
+-  Display detected defects with bounding boxes.
+-  Show inspection summary including:
   - Total Defects
   - Highest Confidence
   - Average Confidence
   - Overall Inspection Status
-- 📋 Display detected defects in a structured table.
-- 🤖 Generate AI-powered inspection reports using Llama 3.2.
-- 📄 Download the inspection report.
+-  Display detected defects in a structured table.
+-  Generate AI-powered inspection reports using Llama 3.2.
+-  Download the inspection report.
 
 ---
 
-## 🛠 Technology Stack
+##  Technology Stack
 
 | Technology | Purpose |
 |------------|---------|
@@ -49,7 +49,7 @@ The entire system is deployed as an interactive Streamlit web application, provi
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Week 7 & 8 - LLM Integration and Deployment/
@@ -72,7 +72,7 @@ Week 7 & 8 - LLM Integration and Deployment/
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ### Clone the repository
 
@@ -109,7 +109,7 @@ ollama list
 
 ---
 
-## ▶️ Running the Application
+## Running the Application
 
 Navigate to the project folder.
 
@@ -123,7 +123,7 @@ The application will open automatically in your browser.
 
 ---
 
-## 📖 Workflow
+##  Workflow
 
 1. Upload a steel surface image.
 2. YOLOv8 detects surface defects.
@@ -135,7 +135,7 @@ The application will open automatically in your browser.
 
 ---
 
-## 📋 Sample Inspection Report
+##  Sample Inspection Report
 
 ```
 Inspection Report
@@ -161,7 +161,7 @@ Recommended Action:
 
 ---
 
-## 📸 Sample Output
+##  Sample Output
 
 Add screenshots here after running the application.
 
@@ -175,7 +175,7 @@ Suggested screenshots:
 
 ---
 
-## 📚 Learning Outcomes
+##  Learning Outcomes
 
 Through this project, I learned:
 
@@ -187,7 +187,7 @@ Through this project, I learned:
 
 ---
 
-## 🌟 Future Improvements
+##  Future Improvements
 
 - PDF report generation.
 - Support for multiple image uploads.
@@ -196,10 +196,3 @@ Through this project, I learned:
 - Inspection history tracking.
 
 ---
-
-## 👩‍💻 Author
-
-**Samruddhi Magadum**
-
-B.Tech Aerospace Engineering  
-Indian Institute of Technology Bombay

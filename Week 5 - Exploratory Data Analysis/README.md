@@ -1,12 +1,12 @@
-# 📊 Week 5 – Exploratory Data Analysis (EDA)
+#  Week 5 – Exploratory Data Analysis (EDA)
 
-## 📌 Project Overview
+##  Project Overview
 
 This week focused on understanding datasets through data cleaning, visualization, and statistical analysis before applying Machine Learning models.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Explore datasets.
 - Clean and preprocess data.
@@ -15,7 +15,7 @@ This week focused on understanding datasets through data cleaning, visualization
 
 ---
 
-## 📚 Topics Covered
+##  Topics Covered
 
 - Data Inspection
 - Data Cleaning
@@ -28,7 +28,7 @@ This week focused on understanding datasets through data cleaning, visualization
 
 ---
 
-## 🛠 Libraries Used
+##  Libraries Used
 
 - Pandas
 - NumPy
@@ -37,7 +37,7 @@ This week focused on understanding datasets through data cleaning, visualization
 
 ---
 
-## 📂 Folder Structure
+##  Folder Structure
 
 ```
 Week 5 - Exploratory Data Analysis/
@@ -49,7 +49,7 @@ Week 5 - Exploratory Data Analysis/
 
 ---
 
-## 📖 Learning Outcomes
+##  Learning Outcomes
 
 - Prepared datasets for Machine Learning.
 - Generated meaningful visualizations.

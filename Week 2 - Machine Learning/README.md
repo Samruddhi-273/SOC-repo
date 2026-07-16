@@ -1,12 +1,12 @@
-# 🤖 Week 2 – Machine Learning
+#  Week 2 – Machine Learning
 
-## 📌 Project Overview
+##  Project Overview
 
 This week introduced the fundamentals of Machine Learning, covering the complete workflow from data preprocessing to model evaluation using Scikit-learn.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Understand supervised learning.
 - Prepare datasets for training.
@@ -15,7 +15,7 @@ This week introduced the fundamentals of Machine Learning, covering the complete
 
 ---
 
-## 📚 Topics Covered
+##  Topics Covered
 
 - Introduction to Machine Learning
 - Data Preprocessing
@@ -30,7 +30,7 @@ This week introduced the fundamentals of Machine Learning, covering the complete
 
 ---
 
-## 🛠 Libraries Used
+##  Libraries Used
 
 - NumPy
 - Pandas
@@ -39,7 +39,7 @@ This week introduced the fundamentals of Machine Learning, covering the complete
 
 ---
 
-## 📖 Learning Outcomes
+##  Learning Outcomes
 
 - Built Machine Learning models.
 - Understood regression and classification.

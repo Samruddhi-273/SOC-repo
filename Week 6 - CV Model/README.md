@@ -1,12 +1,12 @@
-# 👁️ Week 6 – Computer Vision with YOLOv8
+#  Week 6 – Computer Vision with YOLOv8
 
-## 📌 Project Overview
+##  Project Overview
 
 This week focused on object detection using YOLOv8. A custom model was trained on the NEU steel surface defect dataset to detect manufacturing defects.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Learn Computer Vision fundamentals.
 - Train a custom YOLOv8 model.
@@ -15,7 +15,7 @@ This week focused on object detection using YOLOv8. A custom model was trained o
 
 ---
 
-## 📚 Topics Covered
+##  Topics Covered
 
 - Introduction to Computer Vision
 - Object Detection
@@ -29,7 +29,7 @@ This week focused on object detection using YOLOv8. A custom model was trained o
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Ultralytics YOLOv8
 - Python
@@ -39,7 +39,7 @@ This week focused on object detection using YOLOv8. A custom model was trained o
 
 ---
 
-## 📂 Folder Structure
+##  Folder Structure
 
 ```
 Week 6 - Computer Vision/
@@ -50,7 +50,7 @@ Week 6 - Computer Vision/
 
 ---
 
-## 📖 Learning Outcomes
+##  Learning Outcomes
 
 - Trained a custom YOLOv8 model.
 - Performed defect detection on steel surface images.
